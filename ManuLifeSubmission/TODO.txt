@@ -1,0 +1,5 @@
+TODO :
+1. Add Macro Services and deploy on Azure
+2. Add and Delete Web sites
+3. Add More unit test
+4. Add security, using certificates or pub/private keys
